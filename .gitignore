@@ -166,4 +166,4 @@ cython_debug/
 data/
 
 # ignore certain model files
-code/mod_rgs_*
+code/mod_*.h5
